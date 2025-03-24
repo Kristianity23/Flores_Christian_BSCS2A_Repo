@@ -1,5 +1,5 @@
 function whatShaIllWear(temp) {
-    //Temperature
+    //Temperature//
     if (temp < 60) {
         console.log("Wear a jacket");
     } else if (temp < 70) {
